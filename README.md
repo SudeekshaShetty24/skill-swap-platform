@@ -6,7 +6,7 @@ A full-stack SaaS-style web application for exchanging skills. Teach what you kn
 
 ## Tech Stack
 
-|| Layer | Tech |
+| Layer | Tech |
 |-------|------|
 | Frontend | React.js, CSS |
 | Backend | Node.js, Express.js |
